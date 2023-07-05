@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C0705", "C0705\C0705.vcxproj", "{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008TextRPG", "008TextRPG\008TextRPG.vcxproj", "{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E42B63B5-7B36-45B1-9783-F097F9B3207F}"
+	ProjectSection(SolutionItems) = preProject
+		필기.txt = 필기.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}.Debug|x64.ActiveCfg = Debug|x64
+		{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}.Debug|x64.Build.0 = Debug|x64
+		{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}.Debug|x86.Build.0 = Debug|Win32
+		{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}.Release|x64.ActiveCfg = Release|x64
+		{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}.Release|x64.Build.0 = Release|x64
+		{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}.Release|x86.ActiveCfg = Release|Win32
+		{FDA1D616-EF64-433F-8B32-B7C2D9FCDC2E}.Release|x86.Build.0 = Release|Win32
+		{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}.Debug|x64.ActiveCfg = Debug|x64
+		{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}.Debug|x64.Build.0 = Debug|x64
+		{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}.Debug|x86.Build.0 = Debug|Win32
+		{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}.Release|x64.ActiveCfg = Release|x64
+		{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}.Release|x64.Build.0 = Release|x64
+		{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}.Release|x86.ActiveCfg = Release|Win32
+		{2D62E3D6-74AC-4823-8DAD-BC03A1FE516A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E278E0-4CCE-46F4-AF5C-6DEFA710AE5D}
+	EndGlobalSection
+EndGlobal
